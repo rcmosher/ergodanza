@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name kbd)(type KiCad)(uri "/home/rmosher/Documents/Projects/New Keyboard/ErgoDanza/pcb/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+)
